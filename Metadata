@@ -1,0 +1,68 @@
+
+const gameconfig =
+gameassetbundles:
+config:
+Open:
+"10s Mocha VNC Lite": "ANTIBAN 100% |",
+"i0s Mocha VNC Lite sensi":
+TimeToMaximumspeed:
+Mocha VNC Lite >FILE<FREEFIRE<\<FILE>FREEFIRE<\>":
+"AIMBOT_HEAD+AIMLOCK_ HEAD+NO_RECOIL+AIMFOV",
+AIMLOCK_HEAD: (75%),
+AIMBOT_HEAD: 7O%,
+AIMFOV:
+NO_
+0,
+SENSI: max)
+S
+// Lista de armas
+const gunList
+"SPAS12", "M1014", "MAG- 7", "CHARGEBUSTER", "TROGON",
+"M1687,
+"UMP"
+"VSS"
+"P90" "CG15", "THOMPSON" "BIZON", "VECTOR", "MAC10", "M4A1", "AK47", "M14",
+"M249", "GROZA" "FAMAS", "sKS" "SvD" "XM8", "M6@" "AN94", "PLASMA", "AUG" "PARAFAL",
+"SCAR"
+"WOODPECKER!".," "KORD".
+"KINGFISHER"," "GROZA-X", "M249-X", "SVD-Y", "G36", "ACB0", "ARMAESCUDO", "AWM"
+"AMM- Y" "KAROƏK",
+"M828", "M24", "USP", "DESERTEAGLE", "G18", "M1873", "M500", "M1917", "USP- -2",
+"MINIUZI"
+A
+// Llenar las acciones para AIMLOCK HEAD
+gunList.forEach (gun
+○
+gameconf ig.gameassetbundles.config.0pen. AIMLOCK_HEAD[ AIMLOCK HEAD_i0s_ gun:$
+(gun) [gun]: 99.9
+7
+"
+true: true
+DE
+//.Llenar las acciones para AIMBOTHEAD
+gunlist.forEach(gun =>
+gameconf1g. gameasset bundles.config.open.AIMBOT_HEAD[' AIMBOT_HEAD_1os-gun:$
+(ount 1 tounl: 99.9,
+I
+true: true
+DE
+// Llenar las acciones para AIMFOV
+gunList.forEach(gun => para
+[oun]: fonrocscionttes. config open; AIMFOV[ AIMFOV_ i0s -gun stgun) L
+gameconrig.
+true: trueLlenar las acciones para NO RECOIL
+gunlist. forEach(gun =>
+gameconfig.gameassetbundles.config. 0pen.NORECOIL['NO_RECOIL_i0S_gun:s(gun)'] =
+[gun]: 100.0f,
+true: true
+];
+3);
+SENSI
+/ Llenar las acc iones
+gunlist.forEach(gun =>
+ganeconrig - jsnoasseibundte s.conrig - pen. SeNSt [" sensI ios gun : s gun)]-
+[gun]: 0b090090990o
+true: true
+];
+3);
+module. exports = gameconfig:
